@@ -6,8 +6,8 @@
 /iniciar seção cabeçalho/
 
 .cabecalho{
-    background-color: blueviolet;
-    color:aqua;
+    background-color: rgb(120, 66, 170);
+    color:rgb(197, 32, 183);
     display: flex;
     justify-content: space-around;
     align-items: center;
