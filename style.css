@@ -86,4 +86,13 @@ p{
 }
 /*inicio seção escola*/
 .ECOLA{
-    BACKGROUND
+    BACKGROUND-image: linear-gradient(#424e61,#16a5f8); /*define um gradiente linear como a imagem de fundo*/
+    color:#880088; /*cor*/
+    display: flex; /*organizar a estrutura do nosso conteudo*/
+    justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
+    padding: 24px 0; /*altera o espaçamento interno*/
+}
+
+.escola-div-conteudo{
+    width: 45%; /*largure*/
+    color #880088;/*cor*/
