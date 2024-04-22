@@ -96,3 +96,21 @@ p{
 .escola-div-conteudo{
     width: 45%; /*largure*/
     color #880088;/*cor*/
+}
+
+.escola-titulo{
+    padding: 24px 0; /*altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o segundo valor bordas horizontais (esquerda e direita)*/
+    font-site: 25px;/*tamanho da fonte*/
+}
+
+.escola-texto{
+    fony-site: 20px/*tamanho da fonte*/
+
+}
+
+.imagem-escola{
+    width: 30%; /*largura*/
+    height: 300px;/*altura*/
+    border-radius: 82px; /*para definir bordas arredondadas da imagem*/
+}
+/*fim seçao escola*/
