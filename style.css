@@ -39,7 +39,7 @@ crie um seletor para a classe .cabecalho-lista-item, adicionando nele a propieda
 
 /efeito alterara a cor quando passa o mouse/
 a:houver{
-    color:blue;
+    color:rgb(235, 53, 153);
 }
 
 /efeito alterar a cor quando clicar com o mouse/
